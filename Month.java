@@ -4,7 +4,7 @@ public class Month
 {
     public static void main(String[] args)
     {
-        int i=9;
+        int i=8;
         switch (i)
         {
             case 1:
